@@ -1,5 +1,5 @@
-UnImportantNotice.xcodeproj/xcuserdata/
-UnImportantNotice.xcodeproj/project.xcworkspace/xcuserdata/
+xcuserdata/
+*.xccheckout
 *.DS_Store
 __MACOSX/
 
