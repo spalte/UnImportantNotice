@@ -4,6 +4,7 @@ UnImportantNotice
 OsiriX 6 Notice.
 I wrote this plugin in the spirit of open-source software. The source code for OsiriX 6 has not been released, and therefore it can’t be considered open-source. UnImportantNotice will only be updated if OsiriX 6 becomes open-source. Your options are:
 - Buy OsiriX 6 from Antoine and Joris over at Pixmeo. http://www.osirix-viewer.com/Store.html
+- Switch to the Horos fork of OsiriX. http://www.horosproject.org
 - Downgrade back to a previous version of OsiriX.
 
 
